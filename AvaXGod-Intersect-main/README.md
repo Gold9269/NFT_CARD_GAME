@@ -24,17 +24,6 @@ The Avax God on Intersect NFT Card Game is a blockchain-based strategy card game
 - **Metamask or Core Wallet**: Install one of these crypto wallets and connect to the Avalanche Intersect Testnet.
 - **Pearl Token**: Ensure you have some **Pearl** tokens for in-game interactions.
 
-### Steps to Connect to Avalanche Intersect Testnet:
-1. Open Metamask and click the network dropdown in the top-right corner.
-2. Select "Add Network" and fill in the following:
-   - **Network Name**: Intersect Testnet
-   - **RPC URL**: `https://subnets.avax.network/pearl/testnet/rpc`
-   - **ChainID**: `1612`
-   - **Symbol**: `Pearl (Test)`
-   - **Decimals**: `18`
-   - **Explorer URL**: `https://subnets-test.avax.network/intersect`
-3. Click "Save."
-
 ### How to Play:
 - Each player begins with a set of NFT cards and a limited amount of mana.
 - Players can attack or defend during their turn, with each action requiring them to sign a transaction through their connected wallet.
