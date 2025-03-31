@@ -1,0 +1,3 @@
+console.log(await AVAXGods.isPlayer("0x9b7Ecd605423B612727162aC17D70Ab4C0C2Bd13"));
+console.log(await AVAXGods.isPlayer(0x9b7Ecd605423B612727162aC17D70Ab4C0C2Bd13));
+const AVAXGods = await ethers.getContractAt("AVAXGods", "0x2A358ad6393aaFfE7Ec81F333ec24cB770aD3Fb0");
