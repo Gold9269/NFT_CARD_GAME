@@ -1,7 +1,7 @@
 ![AvaXGod](https://github.com/user-attachments/assets/cb2c9fbc-882f-4ea4-ad49-7c537f5124e2)
 
 
-### Project Name: **Avax God on Intersect**
+### Project Name: **Avax Gods**
 
 ### Description:
 The Avax God on Intersect NFT Card Game is a blockchain-based strategy card game where players use NFTs as cards to engage in strategic battles. The game is hosted on the **Avalanche's Intersect Testnet** with **Pearl** as the native token. Each player's move, whether attacking or defending, requires signing a transaction via their connected crypto wallet (Metamask or Core Wallet), ensuring decentralized and transparent gameplay. Players must balance attack, defense, and mana usage to outsmart their opponent and win.
