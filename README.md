@@ -1,6 +1,3 @@
-![AvaXGod](https://github.com/user-attachments/assets/cb2c9fbc-882f-4ea4-ad49-7c537f5124e2)
-
-
 ### Project Name: **Avax Gods**
 
 ### Description:
